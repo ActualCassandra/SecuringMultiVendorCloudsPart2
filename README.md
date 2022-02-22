@@ -1,11 +1,11 @@
 
 # Securing Multivendor Clouds Part 2 - Microsoft Event for Partners
 
-Welcome to the Microsoft Defender for Cloud Masterclass repository.
+Welcome to the Securing Multivendor Clouds Part 2 repository.
 
 ***Part 2 will be on March 17 2022!***
 
-## Registration Link(s)
+## Registration Link
 https://aka.ms/securingmvc-regp2
 
 ## Badges and how to claim
@@ -19,16 +19,41 @@ To claim a badge, send an email to:
  > 
  > Subject: Securing Multivendor Clouds Badge Claim
  > 
- > Body: Provide proof of completing the skills challenge https://aka.ms/SecuringMVCP2-CSC, with proof that it’s you, and proof of SC-200 certification for gold(screenshot will suffice).
+ > Body: Provide proof of completing the skills challenge https://aka.ms/SecuringMVC2-CSC, with proof that it’s you, and proof of SC-200 certification for gold(screenshot will suffice).
 
 Qualified submissions will receive a Badge via email.
 
 ## Agenda
-*Coming Soon*
 
-## Following along in the demo
+**Azure Arc:**
+ - Overview
+ - Hybrid Scenarios
+
+**Defender for Cloud:**
+ - Overview
+ - Learn how to get a single view showing Defender for Cloud recommendations for AWS and GCP
+ - Integrate GCP and AWS resources into Defender for Cloud's secure score calculations
+ - Use Defender for Cloud to show the Integration of GCP Security Command Center recommendations based on the CIS standard into the Defender for Cloud's regulatory compliance dashboard
+ - Use Defender for Cloud's CSPM features to manage your AWS resources
+ - Use Microsoft Defender for Containers for threat detection and advanced defenses to your Amazon EKS clusters
+
+**Microsoft Sentinel:**
+ - Overview
+ - Data Connectors
+ - Sentinel Solutions
+ - Content Management
+
+## Following along in the demo / labs
 Access to an Azure tenant is required to follow along, as is access to a GCP and AWS Tenant. Not all of these will be free, although the costs will be minimal. 
 
+### Labs
+We recommend going through the labs from Part 1 first, as they explain how to setup the various required tenants:
+- [Part 1 Labs](http://aka.ms/securingmvc-repo)
+
+Additionally, the demos will go through connecting AWS and GCP to MDC, as per these Microsoft documentation pages:
+- [Connecting AWS to MDC](https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-aws)
+- [Connecting GCP to MDC](https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-gcp)
+- [Connecting non-Azure virtual machines](https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-machines?pivots=azure-arc)
 
 *More tbc*
 
