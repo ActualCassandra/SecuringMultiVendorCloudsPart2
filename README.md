@@ -59,7 +59,7 @@ Additionally, the demos will go through connecting AWS and GCP to MDC, as per th
 
 ## Learning and Training Resources
  - [Microsoft Defender for Cloud Ninja Training](http://aka.ms/ascninja)
- - [Nicrosoft Sentinel Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-ninja-the-complete-level-400/ba-p/1246310)
+ - [Microsoft Sentinel Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-ninja-the-complete-level-400/ba-p/1246310)
  - [Defender for Cloud 'In the Field' Youtube series](https://www.youtube.com/hashtag/mdfcinthefield)
 
 To-be continued...
