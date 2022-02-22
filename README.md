@@ -55,6 +55,9 @@ Additionally, the demos will go through connecting AWS and GCP to MDC, as per th
 - [Connecting GCP to MDC](https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-gcp)
 - [Connecting non-Azure virtual machines](https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-machines?pivots=azure-arc)
 
+Finally, Azure Arc is a very broad topic. [Azure Arc Jumpstart](https://azurearcjumpstart.io/azure_arc_jumpstart/) has labs for a wide range of scenarios and is recommended to learn more, hands-on.
+- [Connect Azure Arc-enabled servers to Microsoft Defender for Cloud](https://azurearcjumpstart.io/azure_arc_jumpstart/azure_arc_servers/day2/arc_defender/#azure-arc-and-microsoft-defender-for-cloud-integration)
+
 *More tbc*
 
 ## Learning and Training Resources
