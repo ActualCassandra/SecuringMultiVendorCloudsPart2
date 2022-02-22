@@ -57,6 +57,7 @@ Additionally, the demos will go through connecting AWS and GCP to MDC, as per th
 
 Finally, Azure Arc is a very broad topic. [Azure Arc Jumpstart](https://azurearcjumpstart.io/azure_arc_jumpstart/) has labs for a wide range of scenarios and is recommended to learn more, hands-on.
 - [Connect Azure Arc-enabled servers to Microsoft Defender for Cloud](https://azurearcjumpstart.io/azure_arc_jumpstart/azure_arc_servers/day2/arc_defender/#azure-arc-and-microsoft-defender-for-cloud-integration)
+- [Connect Azure Arc-enabled servers to Azure Sentinel](https://azurearcjumpstart.io/azure_arc_jumpstart/azure_arc_servers/day2/arc_azuresentinel/#connect-azure-arc-enabled-servers-to-azure-sentinel)
 
 *More tbc*
 
