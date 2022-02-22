@@ -19,7 +19,7 @@ To claim a badge, send an email to:
  > 
  > Subject: Securing Multivendor Clouds Badge Claim
  > 
- > Body: Provide proof of completing the skills challenge https://aka.ms/SecuringMVC2-CSC, with proof that it’s you, and proof of SC-200 certification for gold(screenshot will suffice).
+ > Body: Provide proof of completing the skills challenge https://aka.ms/SecuringMVC2-CSC, along with proof that it’s you, and proof of SC-200 certification for gold(screenshot will suffice).
 
 Qualified submissions will receive a Badge via email.
 
