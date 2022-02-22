@@ -6,12 +6,12 @@ Welcome to the Microsoft Defender for Cloud Masterclass repository.
 ***Part 2 will be on March 17 2022!***
 
 ## Registration Link(s)
-***TBC***
+https://aka.ms/securingmvc-regp2
 
 ## Badges and how to claim
 Silver – Complete cloud skills challenge **and** be registered for the event
 
-Gold – Completed cloud Skills Challenge **+** registered for the vent **+** pass the SC-200 exam.
+Gold – Completed cloud Skills Challenge **+** registered for the event **+** pass the SC-200 exam.
 
 To claim a badge, send an email to:
 
@@ -19,7 +19,7 @@ To claim a badge, send an email to:
  > 
  > Subject: Securing Multivendor Clouds Badge Claim
  > 
- > Body: Provide proof of completing the skills challenge https://aka.ms/SecuringMVGP2-CSC, with proof that it’s you, and proof of SC-200 certification for gold(screenshot will suffice).
+ > Body: Provide proof of completing the skills challenge https://aka.ms/SecuringMVCP2-CSC, with proof that it’s you, and proof of SC-200 certification for gold(screenshot will suffice).
 
 Qualified submissions will receive a Badge via email.
 
