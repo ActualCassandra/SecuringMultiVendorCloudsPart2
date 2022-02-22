@@ -9,13 +9,13 @@ Welcome to the Securing Multivendor Clouds Part 2 repository.
 https://aka.ms/securingmvc-regp2
 
 ## Badges and how to claim
-Silver – Complete cloud skills challenge **and** be registered for the event
+Silver – Complete cloud skills challenge **and** be registered for the event.
 
 Gold – Completed cloud Skills Challenge **+** registered for the event **+** pass the SC-200 exam.
 
 To claim a badge, send an email to:
 
- > Email: cassandra.browning@microsoft.com
+ > Email: ProtectandDefend@microsoft.com
  > 
  > Subject: Securing Multivendor Clouds Badge Claim
  > 
@@ -44,7 +44,7 @@ Qualified submissions will receive a Badge via email.
  - Content Management
 
 ## Following along in the demo / labs
-Access to an Azure tenant is required to follow along, as is access to a GCP and AWS Tenant. Not all of these will be free, although the costs will be minimal. 
+Access to an Azure tenant is required to follow along, as is access to a GCP and AWS Tenant. Not all of these will be free, although the costs should be minimal. 
 
 ### Labs
 We recommend going through the labs from Part 1 first, as they explain how to setup the various required tenants:
