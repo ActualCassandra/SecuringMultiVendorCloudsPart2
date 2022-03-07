@@ -3,10 +3,13 @@
 
 Welcome to the Securing Multivendor Clouds Part 2 repository.
 
-***Part 2 will be on March 17 2022!***
+***Part 2 will be on March 17 2022 from 1400-1730 GMT!***
 
 ## Registration Link
 https://aka.ms/securingmvc-regp2
+
+### Part 1
+If you want to know more about securing multivendor clouds from an identity perspective, please check out the [github repo for Part 1](https://github.com/LuciBlanchardMSFT/SecuringMultiVendorClouds). However, it is not a requirement for Part 2.
 
 ## Badges and how to claim
 Silver – Complete cloud skills challenge **and** be registered for the event.
@@ -49,6 +52,8 @@ Access to an Azure tenant is required to follow along, as is access to a GCP and
 ### Labs
 We recommend going through the labs from Part 1 first, as they explain how to setup the various required tenants:
 - [Part 1 Labs](http://aka.ms/securingmvc-repo)
+
+We are updating Part 1's labs to reflect changes since the event took place, these updates are in the [main labs folder of this repo](/Labs).
 
 Additionally, the demos will go through connecting AWS and GCP to MDfC, as per these Microsoft documentation pages:
 - [Connecting AWS to MDfC](https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-aws)
