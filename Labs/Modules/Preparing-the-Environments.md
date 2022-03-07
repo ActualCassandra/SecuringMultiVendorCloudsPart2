@@ -4,9 +4,14 @@ These labs require:
  - An Amazon Web Services (AWS) tenant
  - A Google Cloud Platform (GCP) tenant
 
+
+## Potential costs
  Costs should be minimal and you should use trial accounts where possible. Ensure that any resources such as containers or VMs are shutdown when not using and once you have completed the labs delete any created resources.
 
- Microsoft Defender for Cloud (MDfC) costs are only incurred when specific services are being used, but you are still encouraged to use the trial. See the [https://azure.microsoft.com/en-gb/pricing/details/defender-for-cloud/](pricing page for details).
+ Microsoft Defender for Cloud (MDfC) costs are only incurred when specific services are being used, but you are still encouraged to use the trial. See the [pricing page for details](https://azure.microsoft.com/en-gb/pricing/details/defender-for-cloud/).
+ 
+ ## Prerequisites (aside from tenants)
+ Use a modern browser such a Edge. Recommended to use an 'InPrivate' window or similar when creating accounts so that you don't accidentally used a logged in account unless you really wish.
 
  # AWS
  You should create a trial account (if you do not already have an account) 24 hours prior to doing the labs.
