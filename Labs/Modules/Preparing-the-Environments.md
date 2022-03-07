@@ -33,7 +33,7 @@ These labs require:
 
 
  ## Connecting your AWS account to your Azure subscription
- https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-aws
+https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-aws?pivots=env-settings#connect-your-aws-account
 
  # GCP
  You should create a trial account (if yuou do not already have an account) 24 hours prior to doing the labs.
@@ -51,5 +51,5 @@ These labs require:
 9. If you need to return to the GCP console, go to https://console.cloud.google.com.
 
 
-## Connecting your GCP account to your Azure subscription
-https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-gcp
+## Connecting your GCP project(s) to your Azure subscription
+https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-gcp?pivots=env-settings#remove-classic-connectors
