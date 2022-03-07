@@ -1,4 +1,4 @@
-#Overview
+# Overview
 These labs require:
  - An Azure tenant
  - An Amazon Web Services (AWS) tenant
@@ -8,11 +8,11 @@ These labs require:
 
  Microsoft Defender for Cloud (MDfC) costs are only incurred when specific services are being used, but you are still encouraged to use the trial. See the [https://azure.microsoft.com/en-gb/pricing/details/defender-for-cloud/](pricing page for details).
 
- #AWS
+ # AWS
  You should create a trial account (if you do not already have an account) 24 hours prior to doing the labs.
  
  You can skip the next subsection if you want to use an existing account.
-##Steps to create your AWS trial account
+## Steps to create your AWS trial account
 1. Go to https://aws.amazon.com/free/. Click 'Create a a Free Account'.
 2. Type the email address you would like to use for the trial as well as a unique AWS account name, and click 'Verify email address'. You'll be sent an email to the same address containing a verification code. Enter the code and select verify. Double check your spam folder if you do not see the AWS email verification email.
 3. Once you have entered your verification code, you'll be prompted to create a password for your root account. Choose a secure password.
@@ -27,14 +27,14 @@ These labs require:
 
 
 
- ##Connecting your AWS account to your Azure subscription
+ ## Connecting your AWS account to your Azure subscription
  https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-aws
 
- #GCP
+ # GCP
  You should create a trial account (if yuou do not already have an account) 24 hours prior to doing the labs.
 
  You can skip the next subsection if you want to use an existing account.
-##Steps to create your GCP trial account
+## Steps to create your GCP trial account
 1. Go to https://cloud.google.com/free/. Click 'Get started for free'.
 2. This page will probably show your currently logged-in google account. But, feel free to create a separate account and 'switch account' if you want to use a different one. You'll need to do this if you've already tried GCP for free on a specific account in the past. *We will not walk through setting up a base google account*. Select the appropriate country and 'Personal project', accept the Terms of service, and click 'Continue'.
 3. Enter your mobile phone number and click 'Send Code'.
@@ -46,5 +46,5 @@ These labs require:
 9. If you need to return to the GCP console, go to https://console.cloud.google.com.
 
 
-##Connecting your GCP account to your Azure subscription
+## Connecting your GCP account to your Azure subscription
 https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-gcp
