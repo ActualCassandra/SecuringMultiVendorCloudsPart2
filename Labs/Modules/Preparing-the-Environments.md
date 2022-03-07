@@ -54,4 +54,4 @@ https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-aws
 
 
 ## Connecting your GCP project to your Azure subscription
-https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-gcp?pivots=env-settings#remove-classic-connectors
+https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-gcp?pivots=env-settings#connect-your-gcp-projects
