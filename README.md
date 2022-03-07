@@ -50,9 +50,9 @@ Access to an Azure tenant is required to follow along, as is access to a GCP and
 We recommend going through the labs from Part 1 first, as they explain how to setup the various required tenants:
 - [Part 1 Labs](http://aka.ms/securingmvc-repo)
 
-Additionally, the demos will go through connecting AWS and GCP to MDC, as per these Microsoft documentation pages:
-- [Connecting AWS to MDC](https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-aws)
-- [Connecting GCP to MDC](https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-gcp)
+Additionally, the demos will go through connecting AWS and GCP to MDfC, as per these Microsoft documentation pages:
+- [Connecting AWS to MDfC](https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-aws)
+- [Connecting GCP to MDfC](https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-gcp)
 - [Connecting non-Azure virtual machines](https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-machines?pivots=azure-arc)
 
 Finally, Azure Arc is a very broad topic. [Azure Arc Jumpstart](https://azurearcjumpstart.io/azure_arc_jumpstart/) has labs for a wide range of scenarios and is recommended to learn more, hands-on.
