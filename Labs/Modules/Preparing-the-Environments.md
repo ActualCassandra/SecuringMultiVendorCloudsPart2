@@ -16,7 +16,7 @@ These labs require:
  # AWS
  You should create a trial account (if you do not already have an account) 24 hours prior to doing the labs.
  
- You can skip the next subsection if you want to use an existing account.
+ You can skip most of the next subsection if you want to use an existing account, skip to Step 10 if this is the case.
 ## Steps to create your AWS trial account
 1. Go to https://aws.amazon.com/free/. Click 'Create a a Free Account'.
 2. Type the email address you would like to use for the trial as well as a unique AWS account name, and click 'Verify email address'. You'll be sent an email to the same address containing a verification code. Enter the code and select verify. Double check your spam folder if you do not see the AWS email verification email.
@@ -26,8 +26,9 @@ These labs require:
 6. Confirm your identity. Choose whichever option you prefer, enter the captcha, and select the option at the bottom. SMS works well for most people.
 7. Enter the code you received to your phone.
 8. You'll now be asked to select a support plan. For these labs and your trial account, select 'Basic support - Free' and Click 'Complete sign up' at the bottom to finish the AWS trial sign up process.
-9. You've coimpleted signing up for your AWS trial account. Click 'Go to the AWS Management Console' to start your labs. *You may want to get a cup of tea before clicking, since occasionally it takes a few minutes before your account is ready to use. You'll receive an email titled 'Your AWS Account is Ready - Get Started Now' once it is ready.* We will not go through securing your AWS account, but please enable MFA on this account.
-10. If you need to return to the AWS console, go to https://console.aws.amazon.com.
+9. You've completed signing up for your AWS trial account. Click 'Go to the AWS Management Console' to start your labs. *You may want to get a cup of tea before clicking, since occasionally it takes a few minutes before your account is ready to use. You'll receive an email titled 'Your AWS Account is Ready - Get Started Now' once it is ready.* We will not go through securing your AWS account, but please enable MFA on this account.
+10. You'll need your AWS account ID for any labs. Whilst in the AWS console, click on your account name in the top right and the account ID will be shown in the dropdown menu. Alternatively you can run the command 'aws sts get-caller-identity' from the AWS CLI which will show the ID for your currently logged-in account.
+11. If you need to return to the AWS console, go to https://console.aws.amazon.com.
 
 
 
@@ -46,10 +47,11 @@ https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-aws
 4. Enter the verification code and click 'Verify'.
 5. You'll now need to enter in  your billing details. You can selecet an existing payments profile or create a new one, and note the $300 credit as well as no autocharge after your free trial ends. Once you have completed this page, click 'Start my Free Trial' at the bottom.
 6. A popup window will appear on your screen, on top of the existing window which will be darkened. Verify that it's you. Click 'Continue' and a new browser window will open. **this experience may vary depending on your credit card provider's security** If verification is successful you'll be sent to a welcome screen.
-7. At the welcome screen simple fill in what best describes you and click 'Done'.
-8. You've completed creating your free account and are now ready to start the labs. We will not go through securing your GCP account, but please enable MFA on this account.
-9. If you need to return to the GCP console, go to https://console.cloud.google.com.
+7. At the welcome screen fill in what best describes you and click 'Done'.
+8. You've completed creating your free account and are now ready to start the labs. We will not go through securing your GCP account, but please enable MFA.
+9. It's recommended that you create a new project for the lab and maybe a new Organization 'above' the project. You'll need to know the project number and project ID later when connecting your project to Microsoft Defender for Cloud. You can search for a project by typing its name into the top search bar, or typing *project* and seeing if it is on the list, or you can also search for 'Create a Project. Find your project and you will see the required details. 
+10. If you need to return to the GCP console, go to https://console.cloud.google.com.
 
 
-## Connecting your GCP project(s) to your Azure subscription
+## Connecting your GCP project to your Azure subscription
 https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-gcp?pivots=env-settings#remove-classic-connectors
