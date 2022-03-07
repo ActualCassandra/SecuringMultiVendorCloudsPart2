@@ -10,13 +10,14 @@ These labs require:
 
  Microsoft Defender for Cloud (MDfC) costs are only incurred when specific services are being used, but you are still encouraged to use the trial. See the [pricing page for details](https://azure.microsoft.com/en-gb/pricing/details/defender-for-cloud/).
  
- ## Prerequisites (aside from tenants)
- Use a modern browser such a Edge. Recommended to use an 'InPrivate' window or similar when creating accounts so that you don't accidentally used a logged in account unless you really wish.
+ ## Other details
+ - Use a modern browser such a Edge. Recommended to use an 'InPrivate' window or similar when creating accounts so that you don't accidentally used a logged in account unless you really wish.
+ - If you follow along during the event, you will probably not see any resources from AWS or GCP show up in MDfC as the onboarding process can take several hours once a connector has been configured.
 
  # AWS
  You should create a trial account (if you do not already have an account) 24 hours prior to doing the labs.
  
- You can skip most of the next subsection if you want to use an existing account, skip to Step 10 if this is the case.
+ You can skip most of the next section if you want to use an existing account, skip to Step 10 if this is the case.
 ## Steps to create your AWS trial account
 1. Go to https://aws.amazon.com/free/. Click 'Create a a Free Account'.
 2. Type the email address you would like to use for the trial as well as a unique AWS account name, and click 'Verify email address'. You'll be sent an email to the same address containing a verification code. Enter the code and select verify. Double check your spam folder if you do not see the AWS email verification email.
@@ -31,15 +32,13 @@ These labs require:
 11. If you need to return to the AWS console, go to https://console.aws.amazon.com.
 
 
-
-
  ## Connecting your AWS account to your Azure subscription
 https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-aws?pivots=env-settings#connect-your-aws-account
 
  # GCP
  You should create a trial account (if yuou do not already have an account) 24 hours prior to doing the labs.
 
- You can skip the next subsection if you want to use an existing account.
+ You can skip most of the next section if you want to use an existing account, skip to Step 9 if this is the case.
 ## Steps to create your GCP trial account
 1. Go to https://cloud.google.com/free/. Click 'Get started for free'.
 2. This page will probably show your currently logged-in google account. But, feel free to create a separate account and 'switch account' if you want to use a different one. You'll need to do this if you've already tried GCP for free on a specific account in the past. *We will not walk through setting up a base google account*. Select the appropriate country and 'Personal project', accept the Terms of service, and click 'Continue'.
