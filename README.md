@@ -57,6 +57,7 @@ We are updating Part 1's labs to reflect changes since the event took place, the
 
 Additionally, the demos will go through connecting AWS and GCP to MDfC, as per these Microsoft documentation pages:
 - [Connecting AWS to MDfC](https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-aws)
+    - [AWS prerequisites for ARC, etc.](https://techcommunity.microsoft.com/t5/itops-talk-blog/step-by-step-how-to-connect-aws-machines-to-microsoft-defender/ba-p/3251096?WT.mc_id=modinfra-59837-socuff)
 - [Connecting GCP to MDfC](https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-gcp)
 - [Connecting non-Azure virtual machines](https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-machines?pivots=azure-arc)
 
