@@ -50,10 +50,12 @@ Qualified submissions will receive a Badge via email.
 Access to an Azure tenant is required to follow along, as is access to a GCP and AWS Tenant. Not all of these will be free, although the costs should be minimal. 
 
 ### Labs
-We recommend going through the labs from Part 1 first, as they explain how to setup the various required tenants:
+#### Part 1 Labs - IAM
+These labs are not required, but they will show you to leverage Azure AD in a multi-cloud environment. 
 - [Part 1 Labs](http://aka.ms/securingmvc-repo)
 
-We are updating Part 1's labs to reflect changes since the event took place, these updates are in the [main labs folder of this repo](/Labs).
+#### Part 2 Labs and Docs
+[Main labs folder of this repo](/Labs) for the initial setup of AWS and GCp.
 
 Additionally, the demos will go through connecting AWS and GCP to MDfC, as per these Microsoft documentation pages:
 - [Connecting AWS to MDfC](https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-aws)
