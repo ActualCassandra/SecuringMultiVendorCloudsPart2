@@ -71,6 +71,7 @@ Finally, Azure Arc is a very broad topic. [Azure Arc Jumpstart](https://azurearc
 
 ## Learning and Training Resources
  - [Microsoft Defender for Cloud Ninja Training](http://aka.ms/ascninja)
+ - [Microsoft Defender for Cloud Community Repository](https://github.com/Azure/Microsoft-Defender-for-Cloud)
  - [Microsoft Sentinel Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-ninja-the-complete-level-400/ba-p/1246310)
  - [Defender for Cloud 'In the Field' Youtube series](https://www.youtube.com/hashtag/mdfcinthefield)
  - [Azure Arc Jumpstart](https://azurearcjumpstart.io/overview/)
