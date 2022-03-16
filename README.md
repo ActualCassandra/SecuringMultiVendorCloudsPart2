@@ -8,6 +8,11 @@ Welcome to the Securing Multivendor Clouds Part 2 repository.
 ## Registration Link
 https://aka.ms/securingmvc-regp2
 
+## Event Presentation PDF
+A PDF version of the presentation from the event will be made available within a week of the event finishing.
+
+*Link coming soon*
+
 ### Part 1
 If you want to know more about securing multivendor clouds from an identity perspective, please check out the [github repo for Part 1](https://github.com/LuciBlanchardMSFT/SecuringMultiVendorClouds). However, it is not a requirement for Part 2.
 
@@ -55,13 +60,18 @@ These labs are not required, but they will show you to leverage Azure AD in a mu
 - [Part 1 Labs](http://aka.ms/securingmvc-repo)
 
 #### Part 2 Labs and Docs
-[Main labs folder of this repo](/Labs) for the initial setup of AWS and GCp.
+[Main labs folder of this repo](/Labs) for the initial setup of AWS and GCP.
 
-Additionally, the demos will go through connecting AWS and GCP to MDfC, as per these Microsoft documentation pages:
+Additionally, the demos will go through connecting AWS and GCP to Microsoft Defender for Cloud, as per these Microsoft documentation pages:
 - [Connecting AWS to MDfC](https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-aws)
-    - [AWS prerequisites for ARC, etc.](https://techcommunity.microsoft.com/t5/itops-talk-blog/step-by-step-how-to-connect-aws-machines-to-microsoft-defender/ba-p/3251096?WT.mc_id=modinfra-59837-socuff)
+    - [AWS prerequisites for ARC, etc.](https://techcommunity.microsoft.com/t5/itops-talk-blog/step-by-step-how-to-connect-aws-machines-to-microsoft-defender/ba-p/3251096)
 - [Connecting GCP to MDfC](https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-gcp)
+- [Custom Standards and Assessments](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/custom-assessments-and-standards-in-microsoft-defender-for-cloud/ba-p/3251252)
 - [Connecting non-Azure virtual machines](https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-machines?pivots=azure-arc)
+
+Our Microsoft Sentinel demo is narrower in scope than the MDfC demo and focuses on some new AWS S3 functionality:
+- [Connect Microsoft Sentinel to Amazon Web Services to ingest AWS service log data](https://docs.microsoft.com/en-us/azure/sentinel/connect-aws?tabs=s3)
+- [PowerShell scripts for AWS S3 Data Connector](https://github.com/Azure/Azure-Sentinel/tree/master/DataConnectors/AWS-S3)
 
 Finally, Azure Arc is a very broad topic. [Azure Arc Jumpstart](https://azurearcjumpstart.io/azure_arc_jumpstart/) has labs for a wide range of scenarios and is recommended to learn more, hands-on.
 - [Connect Azure Arc-enabled servers to Microsoft Defender for Cloud](https://azurearcjumpstart.io/azure_arc_jumpstart/azure_arc_servers/day2/arc_defender/#azure-arc-and-microsoft-defender-for-cloud-integration)
@@ -74,6 +84,5 @@ Finally, Azure Arc is a very broad topic. [Azure Arc Jumpstart](https://azurearc
  - [Microsoft Defender for Cloud Community Repository](https://github.com/Azure/Microsoft-Defender-for-Cloud)
  - [Microsoft Sentinel Ninja Training](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-ninja-the-complete-level-400/ba-p/1246310)
  - [Defender for Cloud 'In the Field' Youtube series](https://www.youtube.com/hashtag/mdfcinthefield)
+ - [Cloud Skills Challenge for this event - SC-200 learning path excerpts relevant to this event](https://aka.ms/SecuringMVC2-CSC)
  - [Azure Arc Jumpstart](https://azurearcjumpstart.io/overview/)
-
-To-be continued...
