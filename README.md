@@ -66,7 +66,8 @@ Additionally, the demos will go through connecting AWS and GCP to Microsoft Defe
 - [Connecting AWS to MDfC](https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-aws)
     - [AWS prerequisites for ARC, etc.](https://techcommunity.microsoft.com/t5/itops-talk-blog/step-by-step-how-to-connect-aws-machines-to-microsoft-defender/ba-p/3251096)
 - [Connecting GCP to MDfC](https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-gcp)
-- [Custom Standards and Assessments](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/custom-assessments-and-standards-in-microsoft-defender-for-cloud/ba-p/3251252)
+- [Custom Standards and Assessments for AWS workloads](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/custom-assessments-and-standards-in-microsoft-defender-for-cloud/ba-p/3066575)
+- [Custom Standards and Assessments for GCP workloads](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/custom-assessments-and-standards-in-microsoft-defender-for-cloud/ba-p/3251252)
 - [Connecting non-Azure virtual machines](https://docs.microsoft.com/en-us/azure/defender-for-cloud/quickstart-onboard-machines?pivots=azure-arc)
 
 Our Microsoft Sentinel demo is narrower in scope than the MDfC demo and focuses on some new AWS S3 functionality:
