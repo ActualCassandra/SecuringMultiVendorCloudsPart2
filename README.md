@@ -87,3 +87,4 @@ Finally, Azure Arc is a very broad topic. [Azure Arc Jumpstart](https://azurearc
  - [Defender for Cloud 'In the Field' Youtube series](https://www.youtube.com/hashtag/mdfcinthefield)
  - [Cloud Skills Challenge for this event - SC-200 learning path excerpts relevant to this event](https://aka.ms/SecuringMVC2-CSC)
  - [Azure Arc Jumpstart](https://azurearcjumpstart.io/overview/)
+ - [Must Learn KQL Series](https://github.com/rod-trent/MustLearnKQL)
