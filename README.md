@@ -1,17 +1,20 @@
 
 # Securing Multivendor Clouds Part 2 - Microsoft Event for Partners
 
-Welcome to the Securing Multivendor Clouds Part 2 repository.
+Welcome to the Securing Multivendor Clouds Part 2 repository. This event was on 17 March 2022 from 1400-1730 GMT.
 
-***Part 2 will be on March 17 2022 from 1400-1730 GMT!***
+***Part 2 wi be on March 17 2022 from 1400-1730 GMT!***
 
 ## Registration Link
 https://aka.ms/securingmvc-regp2
 
 ## Event Presentation PDF
-A PDF version of the presentation from the event will be made available within a week of the event finishing.
-
+A PDF version of the presentation from the event will be made available soon (as of 22 March 22)
 *Link coming soon*
+
+## On Demand Recording ##
+*Also coming soon (as of 22 March 22) - registered attendees should be notified.*
+
 
 ### Part 1
 If you want to know more about securing multivendor clouds from an identity perspective, please check out the [github repo for Part 1](https://github.com/LuciBlanchardMSFT/SecuringMultiVendorClouds). However, it is not a requirement for Part 2.
@@ -78,7 +81,6 @@ Finally, Azure Arc is a very broad topic. [Azure Arc Jumpstart](https://azurearc
 - [Connect Azure Arc-enabled servers to Microsoft Defender for Cloud](https://azurearcjumpstart.io/azure_arc_jumpstart/azure_arc_servers/day2/arc_defender/#azure-arc-and-microsoft-defender-for-cloud-integration)
 - [Connect Azure Arc-enabled servers to Azure Sentinel](https://azurearcjumpstart.io/azure_arc_jumpstart/azure_arc_servers/day2/arc_azuresentinel/#connect-azure-arc-enabled-servers-to-azure-sentinel)
 
-*More tbc*
 
 ## Learning and Training Resources
  - [Microsoft Defender for Cloud Ninja Training](http://aka.ms/ascninja)
