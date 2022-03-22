@@ -3,8 +3,6 @@
 
 Welcome to the Securing Multivendor Clouds Part 2 repository. This event was on 17 March 2022 from 1400-1730 GMT.
 
-***Part 2 wi be on March 17 2022 from 1400-1730 GMT!***
-
 ## Registration Link
 https://aka.ms/securingmvc-regp2
 
