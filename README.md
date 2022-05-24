@@ -10,7 +10,7 @@ https://aka.ms/securingmvc-regp2
  - [Event slide deck](Securing_Multi-Vendor%20Clouds-Part2-Azure_Arc-MDfC-Sentinel.pdf)
 
 ## On Demand Recording ##
-*registered attendees should be notified.*
+*Registered attendees should be notified.*
 
 
 ### Part 1
