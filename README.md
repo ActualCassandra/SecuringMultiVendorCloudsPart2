@@ -7,11 +7,10 @@ Welcome to the Securing Multivendor Clouds Part 2 repository. This event was on 
 https://aka.ms/securingmvc-regp2
 
 ## Event Presentation PDF
-A PDF version of the presentation from the event will be made available soon (as of 22 March 22)
-*Link coming soon*
+ - [Event slide deck](Securing_Multi-Vendor%20Clouds-Part2-Azure_Arc-MDfC-Sentinel.pdf)
 
 ## On Demand Recording ##
-*Also coming soon (as of 22 March 22) - registered attendees should be notified.*
+*registered attendees should be notified.*
 
 
 ### Part 1
